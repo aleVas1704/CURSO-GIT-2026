@@ -21,6 +21,7 @@ Carrera: Ingeniería en Sistemas
 - [clase 5](clase5.md)
 - [clase 6](clase6.md)
 - [clase 7](clase7.md)
+- [clase 8](clase8.md)
 
 ## justificacion sobre la organizacion de apuntes
 
@@ -40,7 +41,10 @@ en fechas correspondientes a cada clase:
 - clase 5: Apr 28 
 - clase 6: Apr 29 
 - clase 7: Apr 30 
+- clase 8: May 1
 Esto demuestra que el avance fue continuo y no realizado en un solo momento.Nuevamente mil perdones por no 
 seguir la instruccion de usar un solo README pero los primeros dias lo hize asi y con el paso del tiempo
 me gusto como quedo la documentacion y bueno es la ultima actualizacion que hare en mi README principal 
 para justificar el porque mis apuntes estan dividos por clases.
+Y bueno ahora si seria el commit final agregando todos los apuntes de todas
+las clases 
